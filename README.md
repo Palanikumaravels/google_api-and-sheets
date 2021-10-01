@@ -1,4 +1,7 @@
 # google_api-and-sheets
+https://chem.libretexts.org/Courses/Intercollegiate_Courses/Internet_of_Science_Things_(2020)/1%3A_IOST_Modules/1.6%3A_Writing_to_Google_Sheets
+
+
 Skip to main content
 logo.png
 
